@@ -1,0 +1,32 @@
+
+body{
+    background: pink;
+}
+
+
+.logo{
+    margin-top: 300px;
+    color: rgb(239, 24, 95);
+}
+
+
+
+.spe{
+    display: flex;
+    justify-content: center;
+    margin-top: 280px;
+}
+
+.spe p{
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.spe input{
+    height: 40px;
+    width: 80px;
+    margin-left: 20px;
+}
+
+
+
